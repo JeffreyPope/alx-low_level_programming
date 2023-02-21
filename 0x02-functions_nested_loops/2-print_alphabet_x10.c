@@ -3,7 +3,7 @@
  * print_alphabet_x10 - prints 10 times the alphabet, in lower
  * Return : Always return 0
  */
-int main() print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	char ch;
 	int i;
