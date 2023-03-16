@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Add all changes to the git staging area
 git add .
